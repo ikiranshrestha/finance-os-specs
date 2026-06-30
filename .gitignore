@@ -1,0 +1,26 @@
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
+# Swap
+*.swp
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
